@@ -11,12 +11,6 @@
         <xhtml:link rel="alternate" hreflang="zh-CN" href="https://prettydt.github.io/Cursor_vcf/"/>
     </url>
     
-    <!-- index.html -->
-    <url>
-        <loc>https://prettydt.github.io/Cursor_vcf/index.html</loc>
-        <lastmod>2024-12-04</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
+
     
 </urlset>
