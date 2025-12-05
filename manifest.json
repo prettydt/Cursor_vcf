@@ -1,0 +1,11 @@
+{
+  "name": "Excel转VCF工具 - 批量导入iPhone通讯录",
+  "short_name": "VCF转换器",
+  "description": "免费的Excel转VCF工具，支持批量将Excel联系人转换为VCF格式，一键导入iPhone通讯录",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#667eea",
+  "theme_color": "#667eea",
+  "orientation": "portrait-primary",
+  "categories": ["productivity", "utilities"]
+}
